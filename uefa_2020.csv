@@ -1,0 +1,126 @@
+STAGE,DATE,PENS,PENS_HOME_SCORE,PENS_AWAY_SCORE,TEAM_NAME_HOME,TEAM_NAME_AWAY,TEAM_HOME_SCORE,TEAM_AWAY_SCORE,POSSESSION_HOME,POSSESSION_AWAY,TOTAL_SHOTS_HOME,TOTAL_SHOTS_AWAY,SHOTS_ON_TARGET_HOME,SHOTS_ON_TARGET_AWAY,DUELS_WON_HOME,DUELS_WON_AWAY,PREDICTION_TEAM_HOME_WIN,PREDICTION_DRAW,PREDICTION_TEAM_AWAY_WIN,LOCATION
+ Final , 29-05-2021 ,FALSE,FALSE,FALSE, Manchester City , Chelsea ,0,1,61%,39%,7,8,1,2,50%,50%,55%,3%,42%, Estádio Do Dragão 
+ Semi-finals second leg , 05-05-2021 ,FALSE,FALSE,FALSE, Chelsea , Real Madrid ,2,0,32%,68%,15,7,5,5,52%,49%,43%,3%,54%, Stamford Bridge 
+ Semi-finals second leg , 04-05-2021 ,FALSE,FALSE,FALSE, Manchester City , PSG ,2,0,44%,56%,12,14,5,0,53%,47%,44%,3%,53%, Etihad Stadium 
+ Semi-finals first leg , 28-04-2021 ,FALSE,FALSE,FALSE, PSG , Manchester City ,1,2,40%,60%,10,11,4,6,47%,53%,65%,4%,31%, Parc des Princes 
+ Semi-finals first leg , 27-04-2021 ,FALSE,FALSE,FALSE, Real Madrid , Chelsea ,1,1,51%,49%,9,11,1,5,49%,52%,61%,4%,35%, Alfredo Di Stéfano 
+ Quarter-finals second leg , 14-04-2021 ,FALSE,FALSE,FALSE, Liverpool , Real Madrid ,0,0,57%,43%,15,6,4,2,50%,50%,34%,3%,63%, Anfield 
+ Quarter-finals second leg , 14-04-2021 ,FALSE,FALSE,FALSE, Borussia Dortmund , Manchester City ,1,2,38%,62%,10,17,3,5,42%,58%,53%,3%,44%, SIGNAL IDUNA PARK 
+ Quarter-finals second leg , 13-04-2021 ,FALSE,FALSE,FALSE, PSG , Bayern Munich ,0,1,44%,56%,10,14,3,5,54%,46%,55%,3%,42%, Parc des Princes 
+ Quarter-finals second leg , 13-04-2021 ,FALSE,FALSE,FALSE, Chelsea , FC Porto ,0,1,46%,54%,8,8,1,2,52%,48%,78%,2%,20%, Ramón Sánchez-Pizjuán 
+ Quarter-finals first leg , 07-04-2021 ,FALSE,FALSE,FALSE, FC Porto , Chelsea ,0,2,39%,61%,12,6,5,3,62%,38%,26%,3%,71%, Ramón Sánchez-Pizjuán 
+ Quarter-finals first leg , 07-04-2021 ,FALSE,FALSE,FALSE, Bayern Munich , PSG ,2,3,64%,36%,31,6,12,5,56%,44%,43%,4%,53%, Allianz Arena 
+ Quarter-finals first leg , 06-04-2021 ,FALSE,FALSE,FALSE, Real Madrid , Liverpool ,3,1,45%,55%,16,7,7,1,62%,38%,56%,4%,40%, Alfredo Di Stéfano 
+ Quarter-finals first leg , 06-04-2021 ,FALSE,FALSE,FALSE, Manchester City , Borussia Dortmund ,2,1,62%,38%,11,7,5,3,54%,46%,60%,3%,37%, Etihad Stadium 
+ Round of 16 second leg , 17-03-2021 ,FALSE,FALSE,FALSE, Chelsea , Atlético Madrid ,2,0,57%,43%,16,10,5,4,52%,48%,54%,5%,41%, Stamford Bridge 
+ Round of 16 second leg , 17-03-2021 ,FALSE,FALSE,FALSE, Bayern Munich , Lazio ,2,1,59%,41%,12,5,4,2,53%,47%,84%,2%,14%, Allianz Arena 
+ Round of 16 second leg , 16-03-2021 ,FALSE,FALSE,FALSE, Manchester City , B. M‘Gladbach ,2,0,68%,32%,10,6,6,3,55%,45%,82%,2%,16%, Puskás Aréna 
+ Round of 16 second leg , 16-03-2021 ,FALSE,FALSE,FALSE, Real Madrid , Atalanta ,3,1,53%,47%,12,13,6,5,54%,46%,65%,3%,32%, Alfredo Di Stéfano 
+ Round of 16 second leg , 10-03-2021 ,FALSE,FALSE,FALSE, PSG , Barcelona ,1,1,27%,73%,7,21,3,10,55%,45%,49%,3%,48%, Parc des Princes 
+ Round of 16 second leg , 10-03-2021 ,FALSE,FALSE,FALSE, Liverpool , RB Leipzig ,2,0,40%,60%,12,11,7,2,40%,60%,65%,3%,32%, Puskás Aréna 
+ Round of 16 second leg , 09-03-2021 ,FALSE,FALSE,FALSE, Juventus , FC Porto ,3,2,69%,31%,31,14,13,7,53%,47%,70%,3%,27%, Allianz Stadium 
+ Round of 16 second leg , 09-03-2021 ,FALSE,FALSE,FALSE, Borussia Dortmund , Sevilla ,2,2,31%,69%,9,19,5,8,56%,44%,80%,3%,17%, SIGNAL IDUNA PARK 
+ Round of 16 first leg , 24-02-2021 ,FALSE,FALSE,FALSE, Atalanta , Real Madrid ,0,1,31%,69%,2,19,0,4,52%,48%,37%,4%,59%, Gewiss Stadium 
+ Round of 16 first leg , 24-02-2021 ,FALSE,FALSE,FALSE, B. M‘Gladbach , Manchester City ,0,2,39%,61%,3,9,1,4,54%,46%,20%,3%,77%, Puskás Aréna 
+ Round of 16 first leg , 23-02-2021 ,FALSE,FALSE,FALSE, Atlético Madrid , Chelsea ,0,1,36%,64%,6,11,0,5,58%,42%,55%,6%,39%, National Arena 
+ Round of 16 first leg , 23-02-2021 ,FALSE,FALSE,FALSE, Lazio , Bayern Munich ,1,4,43%,57%,14,13,5,7,51%,49%,17%,3%,80%, Olimpico 
+ Round of 16 first leg , 17-02-2021 ,FALSE,FALSE,FALSE, FC Porto , Juventus ,2,1,34%,66%,8,12,5,5,51%,49%,19%,3%,78%, Estádio Do Dragão 
+ Round of 16 first leg , 17-02-2021 ,FALSE,FALSE,FALSE, Sevilla , Borussia Dortmund ,2,3,66%,34%,12,10,4,5,56%,44%,33%,4%,63%, Ramón Sánchez-Pizjuán 
+ Round of 16 first leg , 16-02-2021 ,FALSE,FALSE,FALSE, Barcelona , PSG ,1,4,53%,47%,12,16,4,9,38%,62%,53%,5%,42%, Camp Nou 
+ Round of 16 first leg , 16-02-2021 ,FALSE,FALSE,FALSE, RB Leipzig , Liverpool ,0,2,47%,53%,12,10,2,3,42%,58%,37%,5%,58%, Puskás Aréna 
+ Group stage: Matchday 6 , 09-12-2020 ,FALSE,FALSE,FALSE, Real Madrid , B. M‘Gladbach ,2,0,64%,36%,19,7,7,1,55%,45%,67%,4%,29%, Alfredo Di Stéfano 
+ Group stage: Matchday 6 , 09-12-2020 ,FALSE,FALSE,FALSE, Bayern Munich , Lokomotiv Moscow ,2,0,70%,30%,22,7,7,3,53%,47%,91%,2%,7%, Allianz Arena 
+ Group stage: Matchday 6 , 09-12-2020 ,FALSE,FALSE,FALSE, Salzburg , Atlético Madrid ,0,2,58%,42%,18,7,2,4,42%,58%,21%,4%,75%, Red Bull Arena Salzburg 
+ Group stage: Matchday 6 , 09-12-2020 ,FALSE,FALSE,FALSE, Inter , Shakhtar Donetsk ,0,0,57%,43%,20,7,4,3,52%,49%,75%,5%,20%, Giuseppe Meazza 
+ Group stage: Matchday 6 , 09-12-2020 ,FALSE,FALSE,FALSE, Olympiacos , FC Porto ,0,2,57%,43%,7,8,1,3,50%,50%,15%,5%,80%, Georgios Karaiskakis Stadium 
+ Group stage: Matchday 6 , 09-12-2020 ,FALSE,FALSE,FALSE, Manchester City , Marseille ,3,0,53%,47%,15,8,8,2,56%,44%,77%,3%,20%, Etihad Stadium 
+ Group stage: Matchday 6 , 09-12-2020 ,FALSE,FALSE,FALSE, PSG , İstanbul Başakşehir ,5,1,69%,31%,20,10,9,4,66%,34%,85%,3%,12%, Parc des Princes 
+ Group stage: Matchday 6 , 09-12-2020 ,FALSE,FALSE,FALSE, Ajax , Atalanta ,0,1,64%,36%,12,8,2,2,44%,56%,52%,7%,41%, Johan Cruijff Arena 
+ Group stage: Matchday 6 , 09-12-2020 ,FALSE,FALSE,FALSE, Midtjylland , Liverpool ,1,1,49%,51%,20,7,7,4,55%,45%,7%,2%,91%, MCH Arena 
+ Group stage: Matchday 6 , 08-12-2020 ,FALSE,FALSE,FALSE, Barcelona , Juventus ,0,3,60%,40%,19,9,7,4,51%,50%,49%,5%,46%, Camp Nou 
+ Group stage: Matchday 6 , 08-12-2020 ,FALSE,FALSE,FALSE, Chelsea , Krasnodar ,1,1,64%,36%,18,7,5,2,54%,46%,92%,2%,6%, Stamford Bridge 
+ Group stage: Matchday 6 , 08-12-2020 ,FALSE,FALSE,FALSE, Dynamo Kyiv , Ferencváros ,1,0,41%,59%,4,8,2,2,51%,49%,73%,10%,17%, Kiev Olympic Stadium 
+ Group stage: Matchday 6 , 08-12-2020 ,FALSE,FALSE,FALSE, RB Leipzig , Manchester United ,3,2,44%,56%,9,19,4,7,40%,60%,33%,5%,62%, Red Bull Arena 
+ Group stage: Matchday 6 , 08-12-2020 ,FALSE,FALSE,FALSE, Rennes , Sevilla ,1,3,49%,51%,19,8,6,5,45%,55%,16%,5%,79%, Roazhon Park 
+ Group stage: Matchday 6 , 08-12-2020 ,FALSE,FALSE,FALSE, Zenit , Borussia Dortmund ,1,2,44%,56%,17,14,4,5,53%,47%,10%,3%,87%, Saint Petersburg Stadium 
+ Group stage: Matchday 6 , 08-12-2020 ,FALSE,FALSE,FALSE, Lazio , Club Brugge ,2,2,52%,48%,15,8,8,3,51%,50%,81%,5%,14%, Olimpico 
+ Group stage: Matchday 5 , 02-12-2020 ,FALSE,FALSE,FALSE, Borussia Dortmund , Lazio ,1,1,57%,43%,13,12,4,6,49%,51%,78%,4%,18%, SIGNAL IDUNA PARK 
+ Group stage: Matchday 5 , 02-12-2020 ,FALSE,FALSE,FALSE, Club Brugge , Zenit ,3,0,51%,49%,11,4,5,0,56%,44%,48%,9%,43%, Jan Breydelstadion 
+ Group stage: Matchday 5 , 02-12-2020 ,FALSE,FALSE,FALSE, Ferencváros , Barcelona ,0,3,37%,63%,10,19,2,5,47%,53%,6%,1%,93%, Puskás Aréna 
+ Group stage: Matchday 5 , 02-12-2020 ,FALSE,FALSE,FALSE, Juventus , Dynamo Kyiv ,3,0,53%,47%,17,7,7,3,68%,32%,91%,2%,7%, Allianz Stadium 
+ Group stage: Matchday 5 , 02-12-2020 ,FALSE,FALSE,FALSE, Manchester United , PSG ,1,3,44%,56%,12,13,5,6,49%,51%,46%,5%,49%, Old Trafford 
+ Group stage: Matchday 5 , 02-12-2020 ,FALSE,FALSE,FALSE, Sevilla , Chelsea ,0,4,56%,44%,17,14,3,7,49%,52%,18%,5%,77%, Ramón Sánchez-Pizjuán 
+ Group stage: Matchday 5 , 02-12-2020 ,FALSE,FALSE,FALSE, Krasnodar , Rennes ,1,0,43%,57%,14,12,3,5,55%,45%,21%,9%,70%, Krasnodar Stadium 
+ Group stage: Matchday 5 , 02-12-2020 ,FALSE,FALSE,FALSE, İstanbul Başakşehir , RB Leipzig ,3,4,45%,55%,9,20,4,7,42%,58%,14%,3%,83%, 3.Istanbul Basaksehir Fatih Terim 
+ Group stage: Matchday 5 , 01-12-2020 ,FALSE,FALSE,FALSE, Atlético Madrid , Bayern Munich ,1,1,45%,55%,13,6,3,2,52%,49%,30%,5%,65%, Wanda Metropolitano 
+ Group stage: Matchday 5 , 01-12-2020 ,FALSE,FALSE,FALSE, B. M‘Gladbach , Inter ,2,3,55%,45%,10,15,5,4,49%,51%,37%,5%,58%, BORUSSIA-PARK 
+ Group stage: Matchday 5 , 01-12-2020 ,FALSE,FALSE,FALSE, FC Porto , Manchester City ,0,0,32%,68%,2,18,1,6,41%,59%,20%,3%,77%, Estádio Do Dragão 
+ Group stage: Matchday 5 , 01-12-2020 ,FALSE,FALSE,FALSE, Liverpool , Ajax ,1,0,43%,57%,15,11,5,4,51%,50%,70%,5%,25%, Anfield 
+ Group stage: Matchday 5 , 01-12-2020 ,FALSE,FALSE,FALSE, Atalanta , Midtjylland ,1,1,68%,32%,19,11,8,4,58%,42%,85%,3%,12%, Gewiss Stadium 
+ Group stage: Matchday 5 , 01-12-2020 ,FALSE,FALSE,FALSE, Marseille , Olympiacos ,2,1,54%,46%,12,7,5,2,51%,49%,60%,6%,34%, Stade Vélodrome 
+ Group stage: Matchday 5 , 01-12-2020 ,FALSE,FALSE,FALSE, Lokomotiv Moscow , Salzburg ,1,3,51%,49%,6,19,4,6,59%,41%,29%,7%,64%, RZD Arena 
+ Group stage: Matchday 5 , 01-12-2020 ,FALSE,FALSE,FALSE, Shakhtar Donetsk , Real Madrid ,2,0,41%,59%,7,15,4,8,53%,47%,18%,3%,79%, Kiev Olympic Stadium 
+ Group stage: Matchday 4 , 25-11-2020 ,FALSE,FALSE,FALSE, Inter , Real Madrid ,0,2,37%,63%,5,14,1,5,46%,54%,34%,5%,61%, Giuseppe Meazza 
+ Group stage: Matchday 4 , 25-11-2020 ,FALSE,FALSE,FALSE, Bayern Munich , Salzburg ,3,1,60%,40%,11,19,5,11,49%,51%,90%,2%,8%, Allianz Arena 
+ Group stage: Matchday 4 , 25-11-2020 ,FALSE,FALSE,FALSE, Atlético Madrid , Lokomotiv Moscow ,0,0,65%,35%,20,4,6,1,42%,58%,89%,3%,8%, Wanda Metropolitano 
+ Group stage: Matchday 4 , 25-11-2020 ,FALSE,FALSE,FALSE, Marseille , FC Porto ,0,2,57%,43%,11,9,2,4,51%,49%,35%,5%,60%, Stade Vélodrome 
+ Group stage: Matchday 4 , 25-11-2020 ,FALSE,FALSE,FALSE, Liverpool , Atalanta ,0,2,54%,46%,4,8,0,4,46%,54%,81%,3%,16%, Anfield 
+ Group stage: Matchday 4 , 25-11-2020 ,FALSE,FALSE,FALSE, Ajax , Midtjylland ,3,1,59%,41%,17,9,8,5,52%,48%,91%,2%,7%, Johan Cruijff Arena 
+ Group stage: Matchday 4 , 25-11-2020 ,FALSE,FALSE,FALSE, B. M‘Gladbach , Shakhtar Donetsk ,4,0,46%,54%,14,13,6,3,56%,44%,78%,6%,16%, BORUSSIA-PARK 
+ Group stage: Matchday 4 , 25-11-2020 ,FALSE,FALSE,FALSE, Olympiacos , Manchester City ,0,1,40%,60%,2,22,0,11,49%,51%,8%,2%,90%, Georgios Karaiskakis Stadium 
+ Group stage: Matchday 4 , 24-11-2020 ,FALSE,FALSE,FALSE, Borussia Dortmund , Club Brugge ,3,0,53%,47%,21,2,8,0,52%,48%,94%,1%,5%, SIGNAL IDUNA PARK 
+ Group stage: Matchday 4 , 24-11-2020 ,FALSE,FALSE,FALSE, Dynamo Kyiv , Barcelona ,0,4,30%,70%,7,16,3,7,54%,46%,11%,3%,86%, Kiev Olympic Stadium 
+ Group stage: Matchday 4 , 24-11-2020 ,FALSE,FALSE,FALSE, Juventus , Ferencváros ,2,1,67%,33%,19,9,7,2,57%,43%,89%,2%,9%, Allianz Stadium 
+ Group stage: Matchday 4 , 24-11-2020 ,FALSE,FALSE,FALSE, Lazio , Zenit ,3,1,48%,52%,12,13,7,5,53%,47%,82%,5%,13%, Olimpico 
+ Group stage: Matchday 4 , 24-11-2020 ,FALSE,FALSE,FALSE, Manchester United , İstanbul Başakşehir ,4,1,52%,48%,16,13,8,4,53%,47%,89%,2%,9%, Old Trafford 
+ Group stage: Matchday 4 , 24-11-2020 ,FALSE,FALSE,FALSE, PSG , RB Leipzig ,1,0,38%,62%,8,15,3,3,49%,51%,74%,4%,22%, Parc des Princes 
+ Group stage: Matchday 4 , 24-11-2020 ,FALSE,FALSE,FALSE, Krasnodar , Sevilla ,1,2,40%,60%,11,23,4,8,53%,47%,10%,3%,87%, Krasnodar Stadium 
+ Group stage: Matchday 4 , 24-11-2020 ,FALSE,FALSE,FALSE, Rennes , Chelsea ,1,2,51%,49%,13,9,5,5,44%,56%,9%,2%,89%, Roazhon Park 
+ Group stage: Matchday 3 , 04-11-2020 ,FALSE,FALSE,FALSE, Sevilla , Krasnodar ,3,2,63%,37%,22,11,11,4,54%,46%,81%,4%,15%, Ramón Sánchez-Pizjuán 
+ Group stage: Matchday 3 , 04-11-2020 ,FALSE,FALSE,FALSE, Chelsea , Rennes ,3,0,58%,42%,8,7,4,2,52%,48%,87%,2%,11%, Stamford Bridge 
+ Group stage: Matchday 3 , 04-11-2020 ,FALSE,FALSE,FALSE, Club Brugge , Borussia Dortmund ,0,3,46%,54%,11,11,4,6,45%,55%,7%,2%,91%, Jan Breydelstadion 
+ Group stage: Matchday 3 , 04-11-2020 ,FALSE,FALSE,FALSE, Barcelona , Dynamo Kyiv ,2,1,64%,36%,22,8,14,7,40%,60%,91%,2%,7%, Camp Nou 
+ Group stage: Matchday 3 , 04-11-2020 ,FALSE,FALSE,FALSE, RB Leipzig , PSG ,2,1,49%,51%,12,8,5,2,58%,42%,19%,5%,76%, Red Bull Arena 
+ Group stage: Matchday 3 , 04-11-2020 ,FALSE,FALSE,FALSE, Ferencváros , Juventus ,1,4,46%,54%,12,16,3,9,52%,49%,7%,2%,91%, Puskás Aréna 
+ Group stage: Matchday 3 , 04-11-2020 ,FALSE,FALSE,FALSE, İstanbul Başakşehir , Manchester United ,2,1,31%,69%,9,10,3,2,54%,46%,12%,2%,86%, 3.Istanbul Basaksehir Fatih Terim 
+ Group stage: Matchday 3 , 04-11-2020 ,FALSE,FALSE,FALSE, Zenit , Lazio ,1,1,46%,54%,7,15,2,3,40%,60%,19%,7%,74%, Saint Petersburg Stadium 
+ Group stage: Matchday 3 , 03-11-2020 ,FALSE,FALSE,FALSE, Midtjylland , Ajax ,1,2,44%,56%,9,5,4,4,55%,45%,7%,3%,90%, MCH Arena 
+ Group stage: Matchday 3 , 03-11-2020 ,FALSE,FALSE,FALSE, FC Porto , Marseille ,3,0,39%,61%,6,7,4,0,54%,46%,61%,6%,33%, Estádio Do Dragão 
+ Group stage: Matchday 3 , 03-11-2020 ,FALSE,FALSE,FALSE, Salzburg , Bayern Munich ,2,6,40%,60%,18,21,10,10,48%,52%,12%,2%,86%, Red Bull Arena Salzburg 
+ Group stage: Matchday 3 , 03-11-2020 ,FALSE,FALSE,FALSE, Manchester City , Olympiacos ,3,0,59%,41%,20,6,7,1,56%,44%,90%,2%,8%, Etihad Stadium 
+ Group stage: Matchday 3 , 03-11-2020 ,FALSE,FALSE,FALSE, Real Madrid , Inter ,3,2,56%,44%,12,12,7,3,60%,41%,62%,5%,33%, Alfredo Di Stéfano 
+ Group stage: Matchday 3 , 03-11-2020 ,FALSE,FALSE,FALSE, Atalanta , Liverpool ,0,5,43%,57%,9,15,6,12,60%,40%,24%,6%,70%, Gewiss Stadium 
+ Group stage: Matchday 3 , 03-11-2020 ,FALSE,FALSE,FALSE, Lokomotiv Moscow , Atlético Madrid ,1,1,34%,66%,4,14,1,6,44%,56%,10%,3%,87%, RZD Arena 
+ Group stage: Matchday 3 , 03-11-2020 ,FALSE,FALSE,FALSE, Shakhtar Donetsk , B. M‘Gladbach ,0,6,55%,45%,4,20,1,10,52%,49%,28%,8%,64%, Kiev Olympic Stadium 
+ Group stage: Matchday 2 , 28-10-2020 ,FALSE,FALSE,FALSE, Sevilla , Rennes ,1,0,66%,34%,23,2,10,2,61%,39%,71%,6%,23%, Ramón Sánchez-Pizjuán 
+ Group stage: Matchday 2 , 28-10-2020 ,FALSE,FALSE,FALSE, Club Brugge , Lazio ,1,1,60%,40%,11,8,3,3,42%,58%,15%,5%,80%, Jan Breydelstadion 
+ Group stage: Matchday 2 , 28-10-2020 ,FALSE,FALSE,FALSE, Ferencváros , Dynamo Kyiv ,2,2,50%,50%,15,7,4,3,47%,53%,17%,10%,73%, Groupama Aréna 
+ Group stage: Matchday 2 , 28-10-2020 ,FALSE,FALSE,FALSE, Borussia Dortmund , Zenit ,2,0,70%,30%,11,4,5,0,46%,54%,88%,3%,9%, SIGNAL IDUNA PARK 
+ Group stage: Matchday 2 , 28-10-2020 ,FALSE,FALSE,FALSE, Manchester United , RB Leipzig ,5,0,47%,53%,15,9,8,2,48%,52%,71%,5%,24%, Old Trafford 
+ Group stage: Matchday 2 , 28-10-2020 ,FALSE,FALSE,FALSE, Juventus , Barcelona ,0,2,41%,59%,10,13,0,4,46%,54%,39%,6%,55%, Allianz Stadium 
+ Group stage: Matchday 2 , 28-10-2020 ,FALSE,FALSE,FALSE, Krasnodar , Chelsea ,0,4,29%,71%,13,16,4,7,50%,51%,8%,2%,90%, Krasnodar Stadium 
+ Group stage: Matchday 2 , 28-10-2020 ,FALSE,FALSE,FALSE, İstanbul Başakşehir , PSG ,0,2,46%,54%,16,18,4,4,46%,55%,9%,2%,89%, 3.Istanbul Basaksehir Fatih Terim 
+ Group stage: Matchday 2 , 27-10-2020 ,FALSE,FALSE,FALSE, Atalanta , Ajax ,2,2,44%,56%,14,13,7,7,51%,49%,49%,8%,43%, Gewiss Stadium 
+ Group stage: Matchday 2 , 27-10-2020 ,FALSE,FALSE,FALSE, Atlético Madrid , Salzburg ,3,2,49%,51%,19,14,8,4,61%,39%,81%,4%,15%, Wanda Metropolitano 
+ Group stage: Matchday 2 , 27-10-2020 ,FALSE,FALSE,FALSE, B. M‘Gladbach , Real Madrid ,2,2,34%,66%,9,22,5,6,44%,56%,23%,4%,73%, BORUSSIA-PARK 
+ Group stage: Matchday 2 , 27-10-2020 ,FALSE,FALSE,FALSE, FC Porto , Olympiacos ,2,0,43%,57%,10,11,6,4,54%,46%,78%,6%,16%, Estádio Do Dragão 
+ Group stage: Matchday 2 , 27-10-2020 ,FALSE,FALSE,FALSE, Liverpool , Midtjylland ,2,0,63%,37%,9,5,2,1,51%,49%,89%,2%,9%, Anfield 
+ Group stage: Matchday 2 , 27-10-2020 ,FALSE,FALSE,FALSE, Marseille , Manchester City ,0,3,35%,65%,2,8,2,4,58%,42%,21%,3%,76%, Stade Vélodrome 
+ Group stage: Matchday 2 , 27-10-2020 ,FALSE,FALSE,FALSE, Lokomotiv Moscow , Bayern Munich ,1,2,35%,65%,15,19,6,5,59%,41%,8%,1%,91%, RZD Arena 
+ Group stage: Matchday 2 , 27-10-2020 ,FALSE,FALSE,FALSE, Shakhtar Donetsk , Inter ,0,0,41%,59%,4,12,1,4,42%,58%,17%,6%,77%, Kiev Olympic Stadium 
+ Group stage: Matchday 1 , 21-10-2020 ,FALSE,FALSE,FALSE, Ajax , Liverpool ,0,1,48%,52%,12,16,5,6,47%,53%,26%,6%,68%, Johan Cruijff Arena 
+ Group stage: Matchday 1 , 21-10-2020 ,FALSE,FALSE,FALSE, Olympiacos , Marseille ,1,0,50%,50%,11,10,3,2,50%,51%,23%,6%,71%, Georgios Karaiskakis Stadium 
+ Group stage: Matchday 1 , 21-10-2020 ,FALSE,FALSE,FALSE, Midtjylland , Atalanta ,0,4,47%,53%,9,18,3,10,53%,47%,8%,2%,90%, MCH Arena 
+ Group stage: Matchday 1 , 21-10-2020 ,FALSE,FALSE,FALSE, Manchester City , FC Porto ,3,1,69%,31%,9,6,6,2,53%,47%,77%,3%,20%, Etihad Stadium 
+ Group stage: Matchday 1 , 21-10-2020 ,FALSE,FALSE,FALSE, Inter , B. M‘Gladbach ,2,2,58%,42%,17,6,4,2,43%,57%,78%,5%,17%, Giuseppe Meazza 
+ Group stage: Matchday 1 , 21-10-2020 ,FALSE,FALSE,FALSE, Bayern Munich , Atlético Madrid ,4,0,59%,41%,16,6,5,1,53%,47%,72%,5%,23%, Allianz Arena 
+ Group stage: Matchday 1 , 21-10-2020 ,FALSE,FALSE,FALSE, Salzburg , Lokomotiv Moscow ,2,2,55%,45%,15,5,7,3,47%,53%,74%,6%,20%, Red Bull Arena Salzburg 
+ Group stage: Matchday 1 , 21-10-2020 ,FALSE,FALSE,FALSE, Real Madrid , Shakhtar Donetsk ,2,3,59%,41%,12,6,5,5,57%,43%,74%,2%,24%, Alfredo Di Stéfano 
+ Group stage: Matchday 1 , 20-10-2020 ,FALSE,FALSE,FALSE, Chelsea , Sevilla ,0,0,44%,56%,6,5,4,2,51%,49%,73%,6%,21%, Stamford Bridge 
+ Group stage: Matchday 1 , 20-10-2020 ,FALSE,FALSE,FALSE, PSG , Manchester United ,1,2,61%,39%,14,14,5,6,54%,46%,60%,5%,35%, Parc des Princes 
+ Group stage: Matchday 1 , 20-10-2020 ,FALSE,FALSE,FALSE, RB Leipzig , İstanbul Başakşehir ,2,0,48%,52%,12,7,6,3,51%,49%,91%,2%,7%, Red Bull Arena 
+ Group stage: Matchday 1 , 20-10-2020 ,FALSE,FALSE,FALSE, Rennes , Krasnodar ,1,1,63%,37%,20,10,7,3,49%,51%,83%,6%,11%, Roazhon Park 
+ Group stage: Matchday 1 , 20-10-2020 ,FALSE,FALSE,FALSE, Barcelona , Ferencváros ,5,1,62%,38%,22,8,11,2,62%,38%,91%,1%,8%, Camp Nou 
+ Group stage: Matchday 1 , 20-10-2020 ,FALSE,FALSE,FALSE, Lazio , Borussia Dortmund ,3,1,35%,65%,11,14,4,7,47%,53%,24%,5%,71%, Olimpico 
+ Group stage: Matchday 1 , 20-10-2020 ,FALSE,FALSE,FALSE, Zenit , Club Brugge ,1,2,52%,48%,14,13,3,5,45%,55%,64%,8%,28%, Saint Petersburg Stadium 
+ Group stage: Matchday 1 , 20-10-2020 ,FALSE,FALSE,FALSE, Dynamo Kyiv , Juventus ,0,2,47%,53%,11,10,4,6,42%,59%,9%,3%,88%, Kiev Olympic Stadium 

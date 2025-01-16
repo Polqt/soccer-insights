@@ -1,0 +1,130 @@
+STAGE,DATE,PENS,PENS_HOME_SCORE,PENS_AWAY_SCORE,TEAM_NAME_HOME,TEAM_NAME_AWAY,TEAM_HOME_SCORE,TEAM_AWAY_SCORE,POSSESSION_HOME,POSSESSION_AWAY,TOTAL_SHOTS_HOME,TOTAL_SHOTS_AWAY,SHOTS_ON_TARGET_HOME,SHOTS_ON_TARGET_AWAY,DUELS_WON_HOME,DUELS_WON_AWAY,PREDICTION_TEAM_HOME_WIN,PREDICTION_DRAW,PREDICTION_TEAM_AWAY_WIN,LOCATION
+ Final ,29-05-22,FALSE,FALSE,FALSE,Liverpool,Real Madrid,0,1,50%,50%,23,3,15,2,37%,63%,47%,2,53%,Anfield
+ Semi-finals second leg ,05-05-22,FALSE,FALSE,FALSE,Real Madrid,Man City,3,1,44%,56%,14,15,5,10,47%,53%,49%,10,51%,Santiago Bernabeu
+ Semi-finals second leg ,04-05-22,FALSE,FALSE,FALSE,Villarreal,Liverpool,2,3,44%,56%,6,15,2,5,49%,51%,49%,4,51%,El Madrigal
+ Semi-finals first leg ,28-04-22,FALSE,FALSE,FALSE,Liverpool,Villarreal,2,0,74%,26%,19,1,5,0,41%,59%,50%,4,50%,Anfield
+ Semi-finals first leg ,27-04-22,FALSE,FALSE,FALSE,Man City,Real Madrid,4,3,60%,40%,16,11,6,5,46%,54%,48%,5,52%,Etihad
+ Quarter-finals second leg ,14-04-22,FALSE,FALSE,FALSE,Atlético de Madrid,Man City,0,0,39%,61%,14,10,3,1,49%,51%,45%,8,55%,Civitas Metropolitan Stadium
+ Quarter-finals second leg ,14-04-22,FALSE,FALSE,FALSE,Liverpool,Benfica,3,3,67%,33%,17,6,6,4,38%,62%,45%,9,55%,Anfield
+ Quarter-finals second leg ,13-04-22,FALSE,FALSE,FALSE,Real Madrid,Chelsea,2,3,43%,57%,10,28,4,7,37%,63%,40%,4,60%,Santiago Bernabeu
+ Quarter-finals second leg ,13-04-22,FALSE,FALSE,FALSE,Bayern,Villarreal,1,1,68%,32%,23,4,4,1,38%,62%,38%,7,62%,Allianz Arena
+ Quarter-finals first leg ,07-04-22,FALSE,FALSE,FALSE,Villarreal,Bayern,1,0,38%,62%,12,22,1,4,38%,62%,47%,5,53%,El Madrigal
+ Quarter-finals first leg ,07-04-22,FALSE,FALSE,FALSE,Chelsea,Real Madrid,1,3,58%,42%,20,8,5,5,42%,58%,45%,7,55%,Stamford Bridge
+ Quarter-finals first leg ,06-04-22,FALSE,FALSE,FALSE,Benfica,Liverpool,1,3,34%,66%,9,17,3,8,43%,57%,36%,6,64%,Estádio do Sport Lisboa e Benfica
+ Quarter-finals first leg ,06-04-22,FALSE,FALSE,FALSE,Man City,Atlético de Madrid,1,0,71%,29%,15,0,2,0,37%,63%,43%,10,57%,Etihad
+ Round of 16 second leg ,17-03-22,FALSE,FALSE,FALSE,Lille,Chelsea,1,2,44%,56%,8,8,1,4,43%,57%,44%,7,56%,Stade Pierre-Mauroy
+ Round of 16 second leg ,17-03-22,FALSE,FALSE,FALSE,Juventus,Villarreal,0,3,59%,41%,14,8,5,3,47%,53%,45%,1,55%,Allianz Stadium
+ Round of 16 second leg ,16-03-22,FALSE,FALSE,FALSE,Ajax,Benfica,0,1,69%,31%,16,4,2,1,44%,56%,45%,4,55%,Johan Cruijff Arena
+ Round of 16 second leg ,16-03-22,FALSE,FALSE,FALSE,Man United,Atlético de Madrid,0,1,61%,39%,11,8,5,3,36%,64%,49%,3,51%,Old Trafford
+ Round of 16 second leg ,10-03-22,FALSE,FALSE,FALSE,Man City,Sporting CP,0,0,69%,31%,14,6,4,3,39%,61%,49%,6,51%,Etihad
+ Round of 16 second leg ,10-03-22,FALSE,FALSE,FALSE,Real Madrid,Paris,3,1,44%,56%,21,10,7,4,39%,61%,39%,5,61%,Santiago Bernabeu
+ Round of 16 second leg ,09-03-22,FALSE,FALSE,FALSE,Bayern,Salzburg,7,1,73%,27%,18,7,9,4,47%,53%,42%,10,58%,Allianz Arena
+ Round of 16 second leg ,09-03-22,FALSE,FALSE,FALSE,Liverpool,Inter,0,1,63%,37%,12,6,2,3,39%,61%,50%,6,50%,Anfield
+ Round of 16 first leg ,24-02-22,FALSE,FALSE,FALSE,Atlético de Madrid,Man United,1,1,37%,63%,13,7,1,2,46%,54%,43%,1,57%,Civitas Metropolitan Stadium
+ Round of 16 first leg ,24-02-22,FALSE,FALSE,FALSE,Benfica,Ajax,2,2,40%,60%,17,11,4,8,42%,58%,38%,1,62%,Estádio do Sport Lisboa e Benfica
+ Round of 16 first leg ,23-02-22,FALSE,FALSE,FALSE,Villarreal,Juventus,1,1,55%,45%,9,7,3,2,46%,54%,36%,6,64%,El Madrigal
+ Round of 16 first leg ,23-02-22,FALSE,FALSE,FALSE,Chelsea,Lille,2,0,51%,49%,9,15,4,2,47%,53%,39%,2,61%,Stamford Bridge
+ Round of 16 first leg ,17-02-22,FALSE,FALSE,FALSE,Inter,Liverpool,0,2,46%,54%,9,13,0,2,48%,52%,43%,7,57%,San Siro
+ Round of 16 first leg ,17-02-22,FALSE,FALSE,FALSE,"Salzburg
+",Bayern,1,1,28%,72%,11,22,6,9,49%,51%,42%,2,58%,Red Bull Arena Salzburg
+ Round of 16 first leg ,16-02-22,FALSE,FALSE,FALSE,Paris,Real Madrid,1,0,58%,42%,21,3,8,0,36%,64%,48%,5,52%,Parc des Princes
+ Round of 16 first leg ,16-02-22,FALSE,FALSE,FALSE,Sporting CP,Man City,0,5,36%,64%,3,15,0,6,46%,54%,42%,1,58%,Estádio Jose Alvalade
+ Group stage: Matchday 6 ,09-12-21,FALSE,FALSE,FALSE,"Salzburg
+",Sevilla,1,0,34%,66%,6,11,2,1,39%,61%,49%,6,51%,Red Bull Arena Salzburg
+ Group stage: Matchday 6 ,09-12-21,FALSE,FALSE,FALSE,Man United,Young Boys,1,1,49%,51%,7,17,5,5,38%,62%,47%,2,53%,Old Trafford
+ Group stage: Matchday 6 ,09-12-21,FALSE,FALSE,FALSE,"Benfica
+",Dynamo Kyiv,2,0,51%,49%,8,8,4,4,35%,65%,35%,10,65%,San Siro
+ Group stage: Matchday 6 ,09-12-21,FALSE,FALSE,FALSE,Bayern,Barcelona,3,0,53%,47%,10,7,6,2,48%,52%,41%,9,59%,Allianz Arena
+ Group stage: Matchday 6 ,09-12-21,FALSE,FALSE,FALSE,Wolfsburg,Lille,1,3,57%,43%,9,13,3,6,46%,54%,36%,9,64%,Wolkswagen Arena
+ Group stage: Matchday 6 ,08-12-21,FALSE,FALSE,FALSE,Juventus,Malmö,1,0,59%,41%,16,6,7,2,41%,59%,49%,1,51%,Allianz Stadium
+ Group stage: Matchday 6 ,08-12-21,FALSE,FALSE,FALSE,Zenit,Chelsea,3,3,46%,54%,18,13,7,8,43%,57%,48%,7,52%,Krestovsky Stadium
+ Group stage: Matchday 6 ,08-12-21,FALSE,FALSE,FALSE,Real Madrid,Inter,2,0,51%,49%,15,17,5,3,37%,63%,43%,3,57%,Santiago Bernabeu
+ Group stage: Matchday 6 ,08-12-21,FALSE,FALSE,FALSE,Milan,Liverpool,1,2,48%,52%,8,22,3,7,37%,63%,37%,2,63%,San Siro
+ Group stage: Matchday 6 ,08-12-21,FALSE,FALSE,FALSE,Dortmund,Be?ikta?,5,0,70%,30%,29,1,7,0,46%,54%,43%,7,57%,Signal Iduna Park
+ Group stage: Matchday 6 ,08-12-21,FALSE,FALSE,FALSE,Ajax,Sporting CP,4,2,59%,41%,16,10,7,4,47%,53%,42%,7,58%,Johan Cruijff Arena
+ Group stage: Matchday 6 ,08-12-21,FALSE,FALSE,FALSE,FC Porto,Atlético de Madrid,1,3,68%,32%,14,14,6,7,45%,55%,43%,10,57%,Estadio do Dragao
+ Group stage: Matchday 6 ,08-12-21,FALSE,FALSE,FALSE,Shakhtar Donetsk,Sheriff,1,1,69%,31%,20,12,5,4,42%,58%,40%,10,60%,NSK Olimpiiskyi
+ Group stage: Matchday 6 ,07-12-21,FALSE,FALSE,FALSE,Paris,Club Brugge,4,1,61%,39%,17,15,9,6,38%,62%,42%,8,58%,Parc des Princes
+ Group stage: Matchday 6 ,07-12-21,FALSE,FALSE,FALSE,Leipzig,Man City,2,1,44%,56%,9,13,5,3,38%,62%,43%,1,57%,Red Bull Arena Leipzig
+ Group stage: Matchday 6 ,09-12-21,FALSE,FALSE,FALSE,"Atalanta
+",Villarreal,2,3,65%,35%,19,9,5,6,45%,55%,49%,8,51%,Gewiss Stadium
+ Group stage: Matchday 5 ,25-11-21,FALSE,FALSE,FALSE,Club Brugge,Leipzig,0,5,41%,59%,22,29,9,6,47%,53%,40%,1,60%,Jan Breydel Stadium
+ Group stage: Matchday 5 ,25-11-21,FALSE,FALSE,FALSE,Atlético de Madrid,Milan,0,1,46%,54%,11,26,7,8,42%,58%,46%,5,54%,Estadio Metropolitano
+ Group stage: Matchday 5 ,25-11-21,FALSE,FALSE,FALSE,Sheriff,Real Madrid,0,3,36%,64%,16,16,5,7,46%,54%,36%,3,64%,Sheriff Main Arena
+ Group stage: Matchday 5 ,25-11-21,FALSE,FALSE,FALSE,Sporting CP,Dortmund,3,1,50%,50%,15,16,9,6,47%,53%,44%,5,56%,Estádio José Alvalade
+ Group stage: Matchday 5 ,25-11-21,FALSE,FALSE,FALSE,Man City,Paris,2,1,42%,58%,11,21,8,4,42%,58%,37%,9,63%,City of Manchester Stadium
+ Group stage: Matchday 5 ,25-11-21,FALSE,FALSE,FALSE,Liverpool,FC Porto,1,0,47%,53%,12,19,5,1,41%,59%,40%,4,60%,Anfield
+ Group stage: Matchday 5 ,24-11-21,FALSE,FALSE,FALSE,Besiktas,Ajax,1,2,42%,58%,13,30,2,3,50%,50%,37%,9,63%,Be?ikta? Park
+ Group stage: Matchday 5 ,24-11-21,FALSE,FALSE,FALSE,Inter,Shakhtar Donetsk,2,0,49%,51%,7,27,4,8,39%,61%,37%,9,63%,San Siro
+ Group stage: Matchday 5 ,24-11-21,FALSE,FALSE,FALSE,Malmo,Zenit,1,1,37%,63%,20,19,9,4,48%,52%,43%,1,57%,Malmö New Stadium
+ Group stage: Matchday 5 ,24-11-21,FALSE,FALSE,FALSE,Young Boys,Atalanta,3,3,38%,62%,12,24,5,6,49%,51%,42%,3,58%,Stadion Wankdorf-Bern
+ Group stage: Matchday 5 ,24-11-21,FALSE,FALSE,FALSE,Lille,Salzburg,1,0,50%,50%,33,17,9,4,49%,51%,41%,2,59%,Stade Pierre Mauroy-Villeneuve d'Ascq
+ Group stage: Matchday 5 ,24-11-21,FALSE,FALSE,FALSE,Sevilla,Wolfsburg,2,0,40%,60%,35,10,2,2,47%,53%,47%,5,53%,Ramon Sanchez Pizjuan
+ Group stage: Matchday 5 ,24-11-21,FALSE,FALSE,FALSE,Chelsea,Juventus,4,0,45%,55%,18,9,4,1,42%,58%,39%,6,61%,Stamford Bridge
+ Group stage: Matchday 5 ,25-11-21,FALSE,FALSE,FALSE,Barcelona,Benefica,0,0,46%,54%,12,28,3,3,39%,61%,46%,7,54%, Camp Nou 
+ Group stage: Matchday 5 ,25-11-21,FALSE,FALSE,FALSE,Villarreal,Man United,0,2,36%,64%,25,31,5,8,37%,63%,38%,7,62%,Santiago Bernabeu
+ Group stage: Matchday 5 ,25-11-21,FALSE,FALSE,FALSE,Dynamo Kyiv,Bayern,1,2,49%,51%,8,8,4,4,40%,60%,45%,5,55%,Ramon Sanchez Pizjuan
+ Group stage: Matchday 4 ,07-11-21,FALSE,FALSE,FALSE,Liverpool,Atlético de Madrid,2,0,41%,59%,24,10,9,6,35%,65%,43%,7,57%,Ramon Sanchez Pizjuan
+ Group stage: Matchday 4 ,07-11-21,FALSE,FALSE,FALSE,Sporting CP,Besiktas,4,0,47%,53%,8,14,8,5,48%,52%,47%,4,53%,Allianz Arena
+ Group stage: Matchday 4 ,07-11-21,FALSE,FALSE,FALSE,Man City,Club Brugge,4,1,45%,55%,23,13,7,9,47%,53%,49%,6,51%,Santiago Bernabeu
+ Group stage: Matchday 4 ,07-11-21,FALSE,FALSE,FALSE,Leipzig,PAris,2,2,46%,54%,31,23,4,4,49%,51%,42%,5,58%,City of Manchester Stadium
+ Group stage: Matchday 4 ,07-11-21,FALSE,FALSE,FALSE,Sheriff,Inter,1,3,37%,63%,25,30,5,2,48%,52%,44%,8,56%,Be?ikta? Park
+ Group stage: Matchday 4 ,07-11-21,FALSE,FALSE,FALSE,Dortmund,Ajax,1,3,39%,61%,23,17,2,9,45%,55%,45%,2,55%,Signal Iduna Park
+ Group stage: Matchday 4 ,07-11-21,FALSE,FALSE,FALSE,Milan,FC Porto,1,1,50%,50%,6,18,1,6,48%,52%,43%,1,57%,Estádio do Sport Lisboa e Benfica
+ Group stage: Matchday 4 ,08-11-21,FALSE,FALSE,FALSE,Real Madrid,Shakhtar Donetsk,2,1,38%,62%,9,27,2,4,41%,59%,38%,1,62%,San Siro
+ Group stage: Matchday 4 ,08-11-21,FALSE,FALSE,FALSE,Sevilla,Lille,1,2,49%,51%,34,30,1,7,45%,55%,44%,9,56%,Stamford Bridge
+ Group stage: Matchday 4 ,08-11-21,FALSE,FALSE,FALSE,Villareal,Young Boys,2,0,48%,52%,16,13,4,2,36%,64%,48%,3,52%,Stamford Bridge
+ Group stage: Matchday 4 ,08-11-21,FALSE,FALSE,FALSE,Atalanta,Man United,2,2,37%,63%,31,30,2,1,47%,53%,48%,10,52%,Signal Iduna Park
+ Group stage: Matchday 4 ,08-11-21,FALSE,FALSE,FALSE,Dynamo Kyiv,Barcelona,0,1,43%,57%,23,21,4,3,49%,51%,43%,9,57%,Red Bull Arena Salzburg
+ Group stage: Matchday 4 ,08-11-21,FALSE,FALSE,FALSE,Bayern,Benefics,5,2,49%,51%,9,32,6,1,46%,54%,49%,9,51%,Old Trafford
+ Group stage: Matchday 4 ,08-11-21,FALSE,FALSE,FALSE,juventus,Zenit,4,2,41%,59%,25,24,7,6,44%,56%,47%,10,53%,Old Trafford
+ Group stage: Matchday 4 ,08-11-21,FALSE,FALSE,FALSE,Wolfsburg,Salzburg,2,1,49%,51%,35,7,2,9,46%,54%,41%,9,59%,Old Trafford
+ Group stage: Matchday 4 ,08-11-21,FALSE,FALSE,FALSE,Malmo,Chelesa,0,1,49%,51%,10,14,5,4,44%,56%,42%,7,58%,Signal Iduna Park
+ Group stage: Matchday 3 ,21-10-21,FALSE,FALSE,FALSE,Chelsea,Malmo,4,0,43%,57%,26,24,2,5,49%,51%,37%,10,63%,Signal Iduna Park
+ Group stage: Matchday 3 ,21-10-21,FALSE,FALSE,FALSE,Zenit,Juventus,0,1,39%,61%,27,17,5,1,46%,54%,43%,8,57%,Estádio do Sport Lisboa e Benfica
+ Group stage: Matchday 3 ,21-10-21,FALSE,FALSE,FALSE,Benfica,Bayern,0,4,40%,60%,17,6,2,3,43%,57%,47%,10,53%,Red Bull Arena Salzburg
+ Group stage: Matchday 3 ,21-10-21,FALSE,FALSE,FALSE,Lille,Sevilla,0,0,39%,61%,14,35,5,2,43%,57%,47%,7,53%,Red Bull Arena Salzburg
+ Group stage: Matchday 3 ,21-10-21,FALSE,FALSE,FALSE,Young Boys,Villarreal,1,4,43%,57%,14,27,2,4,37%,63%,45%,8,55%,Red Bull Arena Salzburg
+ Group stage: Matchday 3 ,21-10-21,FALSE,FALSE,FALSE,Man United,Atalanta,3,2,45%,55%,25,25,5,4,43%,57%,36%,4,64%,Signal Iduna Park
+ Group stage: Matchday 3 ,21-10-21,FALSE,FALSE,FALSE,Barcelona,Dynamo Hyiv,1,0,37%,63%,29,27,2,3,41%,59%,40%,5,60%,Signal Iduna Park
+ Group stage: Matchday 3 ,21-10-21,FALSE,FALSE,FALSE,Saizburg,Wolfsburg,3,1,43%,57%,28,19,5,7,37%,63%,39%,2,61%,Signal Iduna Park
+ Group stage: Matchday 3 ,21-10-21,FALSE,FALSE,FALSE,Inter,Sheriff,3,1,48%,52%,27,30,2,6,45%,55%,38%,5,62%,Stamford Bridge
+ Group stage: Matchday 3 ,21-10-21,FALSE,FALSE,FALSE,Shakhtar Donetsk,Real Madrid,0,5,40%,60%,23,10,5,4,39%,61%,36%,4,64%,Signal Iduna Park
+ Group stage: Matchday 3 ,21-10-21,FALSE,FALSE,FALSE,Ajax,Dortmund,4,0,50%,50%,32,33,2,9,47%,53%,36%,8,64%,Parc des Princes
+ Group stage: Matchday 3 ,21-10-21,FALSE,FALSE,FALSE,FC Porto,Milan,1,0,48%,52%,15,23,5,4,36%,64%,49%,7,51%,Red Bull Arena Salzburg
+ Group stage: Matchday 3 ,21-10-21,FALSE,FALSE,FALSE,Atlético de Madrid,Liverpool,2,3,36%,64%,13,13,2,5,36%,64%,43%,8,57%,Parc des Princes
+ Group stage: Matchday 3 ,21-10-21,FALSE,FALSE,FALSE,Paris,Leipzig,3,2,35%,65%,11,34,5,1,48%,52%,42%,2,58%,Estádio do Sport Lisboa e Benfica
+ Group stage: Matchday 3 ,21-10-21,FALSE,FALSE,FALSE,Besiktas,Sporting CP,1,4,43%,57%,20,32,2,2,45%,55%,40%,2,60%,Estádio do Sport Lisboa e Benfica
+ Group stage: Matchday 3 ,21-10-21,FALSE,FALSE,FALSE,Club Brugge,Man City ,1,5,39%,61%,8,30,5,2,37%,63%,40%,5,60%,Red Bull Arena Salzburg
+ Group stage: Matchday 2 ,30-09-21,FALSE,FALSE,FALSE,Juventus,Chelsea,1,0,46%,54%,16,17,4,7,35%,65%,48%,4,52%,Estadio do Dragao
+ Group stage: Matchday 2 ,30-09-21,FALSE,FALSE,FALSE,Man United,Villarreal,2,1,35%,65%,23,9,1,2,44%,56%,36%,4,64%,Estadio do Dragao
+ Group stage: Matchday 2 ,30-09-21,FALSE,FALSE,FALSE,Beyern,Dynamo Kyiv,5,0,41%,59%,24,20,7,6,35%,65%,43%,10,57%,Parc des Princes
+ Group stage: Matchday 2 ,30-09-21,FALSE,FALSE,FALSE,Benfica,Barcelona,3,0,42%,58%,6,26,7,2,41%,59%,49%,10,51%,Signal Iduna Park
+ Group stage: Matchday 2 ,30-09-21,FALSE,FALSE,FALSE,Wolfsburg,Sevilla,1,1,41%,59%,26,15,9,7,39%,61%,38%,3,62%,Signal Iduna Park
+ Group stage: Matchday 2 ,30-09-21,FALSE,FALSE,FALSE,Salzburg,Lille,2,1,49%,51%,27,16,8,6,49%,51%,43%,6,57%,Jan Breydel Stadium
+ Group stage: Matchday 2 ,30-09-21,FALSE,FALSE,FALSE,Zenit,Malo,4,0,44%,56%,28,29,1,5,43%,57%,36%,10,64%,Red Bull Arena Salzburg
+ Group stage: Matchday 2 ,30-09-21,FALSE,FALSE,FALSE,Atalanta,Young Boys,1,0,49%,51%,12,14,6,4,43%,57%,47%,7,53%,Stamford Bridge
+ Group stage: Matchday 2 ,30-09-21,FALSE,FALSE,FALSE,Dortmund,Sporting CP,1,0,41%,59%,14,11,2,6,44%,56%,39%,9,61%,Red Bull Arena Salzburg
+ Group stage: Matchday 2 ,30-09-21,FALSE,FALSE,FALSE,Paris,Man City ,2,0,35%,65%,11,23,7,9,41%,59%,38%,7,62%,Red Bull Arena Salzburg
+ Group stage: Matchday 2 ,30-09-21,FALSE,FALSE,FALSE,FC Porto,Liverpool,1,5,46%,54%,12,25,1,7,36%,64%,36%,2,64%,Red Bull Arena Salzburg
+ Group stage: Matchday 2 ,30-09-21,FALSE,FALSE,FALSE,Real Madrid,Sheriff,1,2,36%,64%,9,28,6,4,42%,58%,44%,1,56%,Stamford Bridge
+ Group stage: Matchday 2 ,30-09-21,FALSE,FALSE,FALSE,Laipzig,Club Brugge,1,2,42%,58%,7,26,8,1,37%,63%,45%,1,55%,Santiago Bernabeu
+ Group stage: Matchday 2 ,30-09-21,FALSE,FALSE,FALSE,Milan,Atlético de Madrid,1,2,46%,54%,6,17,7,5,41%,59%,36%,2,64%,Ramon Sanchez Pizjuan
+ Group stage: Matchday 2 ,30-09-21,FALSE,FALSE,FALSE,Shakhtar Donetsk,Inter,0,0,38%,62%,27,34,8,1,37%,63%,36%,10,64%,Be?ikta? Park
+ Group stage: Matchday 2 ,30-09-21,FALSE,FALSE,FALSE,Ajax,Besiktas,2,0,43%,57%,19,16,5,5,45%,55%,39%,2,61%,Be?ikta? Park
+ Group stage: Matchday 1 ,16-09-21,FALSE,FALSE,FALSE,Sporting CP,Ajax,1,5,37%,63%,12,30,7,5,37%,63%,38%,3,62%,José Alvalade
+ Group stage: Matchday 1 ,16-09-21,FALSE,FALSE,FALSE,Atlético de Madrid,FC Porto,0,0,45%,55%,10,14,5,6,48%,52%,40%,7,60%,Be?ikta? Park
+ Group stage: Matchday 1 ,16-09-21,FALSE,FALSE,FALSE,Club Brugge,Paris,1,1,38%,62%,26,13,7,4,41%,59%,36%,7,64%,Red Bull Arena Salzburg
+ Group stage: Matchday 1 ,16-09-21,FALSE,FALSE,FALSE,Man City,Leipzig,6,3,48%,52%,28,21,4,5,42%,58%,38%,3,62%,Signal Iduna Park
+ Group stage: Matchday 1 ,16-09-21,FALSE,FALSE,FALSE,Liverpool ,Milan,3,2,44%,56%,25,26,6,9,38%,62%,47%,9,53%,Be?ikta? Park
+ Group stage: Matchday 1 ,16-09-21,FALSE,FALSE,FALSE,Inter ,Real Madrid,0,1,49%,51%,7,33,4,5,40%,60%,46%,2,54%,Red Bull Arena Salzburg
+ Group stage: Matchday 1 ,16-09-21,FALSE,FALSE,FALSE,Sheriff ,Shakhtar Dopetsk,2,0,42%,58%,25,25,2,9,40%,60%,38%,1,62%,Stamford Bridge
+ Group stage: Matchday 1 ,16-09-21,FALSE,FALSE,FALSE,Besiktas,Dortmund,1,2,43%,57%,6,33,4,7,45%,55%,45%,3,55%,Santiago Bernabeu
+ Group stage: Matchday 1 ,16-09-21,FALSE,FALSE,FALSE,Dynamo Kyiv,Benfica,0,0,44%,56%,8,17,7,5,46%,54%,42%,3,58%,Red Bull Arena Salzburg
+ Group stage: Matchday 1 ,16-09-21,FALSE,FALSE,FALSE,Barcelona,Bayern,0,3,48%,52%,17,30,8,9,45%,55%,45%,8,55%,Ramon Sanchez Pizjuan
+ Group stage: Matchday 1 ,16-09-21,FALSE,FALSE,FALSE,Lille,Wolfsburg,0,0,48%,52%,10,10,6,7,36%,64%,40%,1,60%,Ramon Sanchez Pizjuan
+ Group stage: Matchday 1 ,16-09-21,FALSE,FALSE,FALSE,Malmo,Juventus,0,3,44%,56%,31,23,2,5,42%,58%,49%,8,51%,Estádio do Sport Lisboa e Benfica
+ Group stage: Matchday 1 ,16-09-21,FALSE,FALSE,FALSE,Chelsea,Zenit,1,0,39%,61%,22,5,8,8,46%,54%,45%,10,55%,Estádio do Sport Lisboa e Benfica
+ Group stage: Matchday 1 ,16-09-21,FALSE,FALSE,FALSE,Villarreal,Atalanta,2,2,48%,52%,20,18,8,5,47%,53%,41%,1,59%,Be?ikta? Park
+ Group stage: Matchday 1 ,16-09-21,FALSE,FALSE,FALSE,Young Boys,Man United,2,1,48%,52%,7,17,7,8,49%,51%,37%,6,63%,Be?ikta? Park
+ Group stage: Matchday 1 ,16-09-21,FALSE,FALSE,FALSE,Sevilla,Salzvurg,1,1,44%,56%,32,18,8,5,36%,64%,46%,5,54%,Estadio do Dragao
